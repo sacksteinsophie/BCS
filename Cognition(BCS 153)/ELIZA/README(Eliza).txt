@@ -1,0 +1,3 @@
+Sophie Sackstein 
+ID # 29443383
+I'm trying to create something to predicts common memes on media. This is just a small sample- however I would to create a  predictive meme generator that works on matching multiple string patterns based on previous occurance that the user or others had used the memes, hopefully I can also go beyond Eliza and use natural language processing tools (similar to word2vec) to determine where the most likely location for a meme (or sticker) is in a sentence. My current program just uses contempary lyrics and memes with a few string pattern matches to show a crude outline of what Eliza is and what my future programs could be. 
